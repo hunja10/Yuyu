@@ -1,0 +1,1519 @@
+[00:00:05] [Server thread/INFO]: <DokiDokiWakuWaku> you can fit 12, i believe in you
+[00:00:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4277ms or 85 ticks behind
+[00:00:12] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=4600, y=16, z=5063}
+[00:00:12] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=4600, y=16, z=5057}
+[00:00:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7896ms or 157 ticks behind
+[00:00:37] [Worker-Main-4/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[00:00:43] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=4661, y=0, z=4986}
+[00:00:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6606ms or 132 ticks behind
+[00:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5076ms or 101 ticks behind
+[00:01:13] [Server thread/INFO]: <DokiDokiWakuWaku> WHAT THE FUCK
+[00:01:21] [Server thread/INFO]: <DokiDokiWakuWaku> LOOK AT NO MIC
+[00:01:23] [Server thread/INFO]: <DokiDokiWakuWaku> RIGHT NOW
+[00:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3455ms or 69 ticks behind
+[00:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4049ms or 80 ticks behind
+[00:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3945ms or 78 ticks behind
+[00:02:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5349ms or 106 ticks behind
+[00:02:36] [User Authenticator #49/INFO]: UUID of player bighotmaddog is 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:02:36] [Server thread/INFO]: [Handshake] Sending channel query
+[00:02:36] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[00:02:36] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[00:02:37] [Server thread/INFO]: bighotmaddog[/100.0.177.219:59711] logged in with entity id 476463 at (3868.489498123058, 67.0, 7699.529595435524)
+[00:02:37] [Server thread/INFO]: Syncing config to bighotmaddog (154c7459-7d96-4c8e-95f4-85211e9d9749)
+[00:02:37] [Server thread/INFO]: Loading config from file...
+[00:02:37] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:02:37] [Server thread/INFO]: bighotmaddog joined the game
+[00:02:37] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:02:37] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:02:37] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:02:37] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:02:37] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:02:37] [Server thread/INFO]: [bclib] 	- Offering Folder /home/rsa-key-20250402/yuyucraftServerFiles/bclib-sync (allowDelete=true)
+[00:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7086ms or 141 ticks behind
+[00:03:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11719ms or 234 ticks behind
+[00:03:21] [Server thread/INFO]: DokiDokiWakuWaku was slain by Zombie
+[00:03:21] [Server thread/INFO]: Created new backpack backup file for DokiDokiWakuWaku with unique ID travelersbackpack.snow_11.04.2025-00.03.21.dat
+[00:03:27] [Server thread/INFO]: <DokiDokiWakuWaku> lovely
+[00:03:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8953ms or 179 ticks behind
+[00:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6073ms or 121 ticks behind
+[00:04:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6954ms or 139 ticks behind
+[00:04:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7328ms or 146 ticks behind
+[00:04:48] [Server thread/INFO]: DokiDokiWakuWaku has completed the challenge [Great View From Up Here]
+[00:04:56] [Server thread/INFO]: <DokiDokiWakuWaku> ???????????????????????????????
+[00:05:01] [Server thread/INFO]: <DokiDokiWakuWaku> WHAT SHULKER
+[00:05:06] [Server thread/INFO]: <DokiDokiWakuWaku> ARE YOU FUCKING RETARDED GAME
+[00:05:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6672ms or 133 ticks behind
+[00:05:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8188ms or 163 ticks behind
+[00:05:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10276ms or 205 ticks behind
+[00:06:17] [Server thread/INFO]: <DokiDokiWakuWaku> yare yare... how is your stand stronger than mine?
+[00:06:21] [Server thread/INFO]: <DokiDokiWakuWaku> thats my brewing stand
+[00:06:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12667ms or 253 ticks behind
+[00:06:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11986ms or 239 ticks behind
+[00:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12521ms or 250 ticks behind
+[00:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11478ms or 229 ticks behind
+[00:08:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12154ms or 243 ticks behind
+[00:08:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12819ms or 256 ticks behind
+[00:09:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12783ms or 255 ticks behind
+[00:09:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11547ms or 230 ticks behind
+[00:09:36] [pool-10-thread-17/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/skyris], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields]] from pos class_2338{x=3381, y=71, z=7723}
+[00:09:42] [Server thread/WARN]: DokiDokiWakuWaku moved too quickly! -8.09774582092814,-6.2785383402055714,-1.2032410963329312
+[00:09:42] [Server thread/WARN]: bighotmaddog moved too quickly! -8.187463071573347,3.5,4.882971039382028
+[00:09:48] [Server thread/INFO]: bighotmaddog lost connection: Disconnected
+[00:09:48] [Server thread/INFO]: bighotmaddog left the game
+[00:09:48] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:10:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12045ms or 240 ticks behind
+[00:10:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4313ms or 86 ticks behind
+[00:10:25] [User Authenticator #50/INFO]: UUID of player bighotmaddog is 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:10:25] [Server thread/INFO]: [Handshake] Sending channel query
+[00:10:26] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[00:10:26] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[00:10:26] [Server thread/INFO]: bighotmaddog[/100.0.177.219:59877] logged in with entity id 484883 at (3461.0348806624356, 104.0, 7830.640823088393)
+[00:10:26] [Server thread/INFO]: Syncing config to bighotmaddog (154c7459-7d96-4c8e-95f4-85211e9d9749)
+[00:10:26] [Server thread/INFO]: Loading config from file...
+[00:10:26] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:10:26] [Server thread/INFO]: bighotmaddog joined the game
+[00:10:26] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:10:27] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:10:27] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:10:27] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:10:27] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:10:27] [Server thread/INFO]: [bclib] 	- Offering Folder /home/rsa-key-20250402/yuyucraftServerFiles/bclib-sync (allowDelete=true)
+[00:10:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12326ms or 246 ticks behind
+[00:11:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11195ms or 223 ticks behind
+[00:11:33] [Server thread/INFO]: bighotmaddog has made the advancement [This Must be a Sign!]
+[00:11:40] [Server thread/INFO]: <DokiDokiWakuWaku> i cant find that stupid ravine
+[00:11:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12840ms or 256 ticks behind
+[00:11:50] [pool-10-thread-18/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/forgotten], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest]] from pos class_2338{x=3179, y=72, z=7611}
+[00:11:57] [Server thread/WARN]: DokiDokiWakuWaku moved too quickly! 7.7914026093076245,6.304910657871247,-0.7472249107404423
+[00:12:07] [Server thread/INFO]: bighotmaddog lost connection: Disconnected
+[00:12:07] [Server thread/INFO]: bighotmaddog left the game
+[00:12:07] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:12:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17873ms or 357 ticks behind
+[00:12:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5679ms or 113 ticks behind
+[00:12:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7136ms or 142 ticks behind
+[00:13:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6685ms or 133 ticks behind
+[00:13:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5706ms or 114 ticks behind
+[00:13:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4144ms or 82 ticks behind
+[00:14:00] [Server thread/INFO]: DokiDokiWakuWaku was slain by Zombie
+[00:14:00] [Server thread/INFO]: Created new backpack backup file for DokiDokiWakuWaku with unique ID travelersbackpack.snow_11.04.2025-00.14.00.dat
+[00:14:06] [Server thread/INFO]: <DokiDokiWakuWaku> FUCKING LAG
+[00:14:11] [Server thread/INFO]: <DokiDokiWakuWaku> I JUST WANNA RETRIEVE MY ITEMS
+[00:14:13] [Server thread/INFO]: <DokiDokiWakuWaku> FOR FUCKS SAKE
+[00:14:18] [Server thread/INFO]: <DokiDokiWakuWaku> ITS 2k METERS AWAY
+[00:14:41] [Server thread/INFO]: Kratzzi was shot by Lesser Technodemon
+[00:15:22] [Server thread/INFO]: <DokiDokiWakuWaku> 2k meters of walking just to get one-shot by a zombie
+[00:15:36] [Server thread/INFO]: <DokiDokiWakuWaku> BECAUSE OF LAG
+[00:16:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4541ms or 90 ticks behind
+[00:16:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6739ms or 134 ticks behind
+[00:17:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7591ms or 151 ticks behind
+[00:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6493ms or 129 ticks behind
+[00:17:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3561ms or 71 ticks behind
+[00:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3173ms or 63 ticks behind
+[00:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3480ms or 69 ticks behind
+[00:18:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[00:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3153ms or 63 ticks behind
+[00:19:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3399ms or 67 ticks behind
+[00:19:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:20:33] [Server thread/INFO]: <DokiDokiWakuWaku> FUCKING FINALLY
+[00:20:52] [User Authenticator #51/INFO]: UUID of player bighotmaddog is 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:20:52] [Server thread/INFO]: [Handshake] Sending channel query
+[00:20:52] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[00:20:52] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[00:20:53] [Server thread/INFO]: bighotmaddog[/100.0.177.219:60053] logged in with entity id 494267 at (3283.47473788109, 65.0, 7737.992483225155)
+[00:20:53] [Server thread/INFO]: Syncing config to bighotmaddog (154c7459-7d96-4c8e-95f4-85211e9d9749)
+[00:20:53] [Server thread/INFO]: Loading config from file...
+[00:20:53] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:20:53] [Server thread/INFO]: bighotmaddog joined the game
+[00:20:53] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:20:53] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:20:53] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:20:53] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:20:53] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:20:53] [Server thread/INFO]: [bclib] 	- Offering Folder /home/rsa-key-20250402/yuyucraftServerFiles/bclib-sync (allowDelete=true)
+[00:21:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:21:13] [Server thread/INFO]: <DokiDokiWakuWaku> stupid fucking lag this shouldnt have taken 20 minutes of trying
+[00:21:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5855ms or 117 ticks behind
+[00:21:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7735ms or 154 ticks behind
+[00:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6763ms or 135 ticks behind
+[00:22:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8463ms or 169 ticks behind
+[00:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6516ms or 130 ticks behind
+[00:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8765ms or 175 ticks behind
+[00:23:30] [Server thread/INFO]: <WoxedPL> yo
+[00:23:35] [Server thread/INFO]: <bighotmaddog> hi
+[00:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8391ms or 167 ticks behind
+[00:23:41] [Server thread/INFO]: <Kratzzi> hello
+[00:24:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7424ms or 148 ticks behind
+[00:24:07] [pool-10-thread-19/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/pumpkin_patch], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=2853, y=71, z=7403}
+[00:24:08] [Worker-Main-4/WARN]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[00:24:09] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.258506454096958,-3.387407241461915E-5,-8.573645105503601
+[00:24:09] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.4373613649769625,-3.517062866364995E-5,-8.906090419649217
+[00:24:09] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.6142955699906,-3.64690280321156E-5,-9.239885052034992
+[00:24:09] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.789031219160855,-3.776918840969756E-5,-9.57515367778035
+[00:24:09] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.961427212086817,-3.907103133826695E-5,-9.911946937922835
+[00:24:09] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.131451311851786,-4.0374481855565136E-5,-10.25026009769988
+[00:24:09] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.2991524694649135,-4.167946835309522E-5,-10.590049622542779
+[00:24:09] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.464639432759592,-4.2985922405591737E-5,-10.931245193985774
+[00:24:09] [Worker-Main-3/WARN]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[00:24:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8907ms or 178 ticks behind
+[00:24:41] [Server thread/INFO]: <Kratzzi> surveying the area to see where i can build a bridge
+[00:24:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6351ms or 127 ticks behind
+[00:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6287ms or 125 ticks behind
+[00:25:14] [Server thread/INFO]: <DokiDokiWakuWaku> loving the zombies that kill me in 2 hits
+[00:25:17] [pool-10-thread-20/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=2491, y=74, z=7435}
+[00:25:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2492, y=74, z=7435} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[00:25:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location class_2338{x=2492, y=74, z=7435}
+[00:25:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2491, y=74, z=7435} but found not block entity block Block{minecraft:stripped_spruce_log}[axis=y] at location
+[00:25:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stripped_spruce_log}[axis=y] but failed at location class_2338{x=2491, y=74, z=7435}
+[00:25:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2490, y=74, z=7435} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[00:25:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location class_2338{x=2490, y=74, z=7435}
+[00:25:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2490, y=73, z=7435} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[00:25:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=2490, y=73, z=7435}
+[00:25:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2492, y=73, z=7435} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[00:25:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=2492, y=73, z=7435}
+[00:25:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6783ms or 135 ticks behind
+[00:25:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12651ms or 253 ticks behind
+[00:26:17] [pool-10-thread-20/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/skyris], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor]] from pos class_2338{x=2523, y=74, z=7723}
+[00:26:17] [Worker-Main-2/WARN]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[00:26:24] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[00:26:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14301ms or 286 ticks behind
+[00:26:35] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[00:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12295ms or 245 ticks behind
+[00:27:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8836ms or 176 ticks behind
+[00:27:21] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-53, z=1724}
+[00:27:27] [Server thread/INFO]: <DokiDokiWakuWaku> so uh
+[00:27:30] [Server thread/INFO]: <DokiDokiWakuWaku> do we need slime
+[00:27:35] [Server thread/INFO]: <DokiDokiWakuWaku> i got 31 balls
+[00:27:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10227ms or 204 ticks behind
+[00:27:44] [Server thread/INFO]: Villager class_1646['Unemployed'/501294, l='ServerLevel[world]', x=2637.63, y=79.00, z=7884.28] died, message: 'Unemployed suffocated in a wall'
+[00:27:44] [Server thread/INFO]: Villager class_1646['Unemployed'/501326, l='ServerLevel[world]', x=2636.28, y=79.00, z=7890.37] died, message: 'Unemployed suffocated in a wall'
+[00:28:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12555ms or 251 ticks behind
+[00:28:30] [Server thread/INFO]: bighotmaddog has made the advancement [Villager Market]
+[00:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8989ms or 179 ticks behind
+[00:28:50] [Server thread/INFO]: bighotmaddog has made the advancement [Diamonds!]
+[00:28:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7095ms or 141 ticks behind
+[00:29:10] [Server thread/INFO]: <DokiDokiWakuWaku> i like them
+[00:29:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7038ms or 140 ticks behind
+[00:29:34] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[00:29:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6500ms or 130 ticks behind
+[00:29:58] [Server thread/INFO]: <DokiDokiWakuWaku> hunja please read chat
+[00:30:00] [Server thread/INFO]: <DokiDokiWakuWaku> do we
+[00:30:01] [Server thread/INFO]: <DokiDokiWakuWaku> need
+[00:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6466ms or 129 ticks behind
+[00:30:03] [Server thread/INFO]: <DokiDokiWakuWaku> slime balls
+[00:30:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7011ms or 140 ticks behind
+[00:30:25] [Server thread/INFO]: <DokiDokiWakuWaku> i also got us 10 blocks of coal
+[00:30:32] [Server thread/INFO]: bighotmaddog lost connection: Disconnected
+[00:30:32] [Server thread/INFO]: bighotmaddog left the game
+[00:30:32] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:30:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4166ms or 83 ticks behind
+[00:30:44] [Server thread/INFO]: <DokiDokiWakuWaku> ur too far away
+[00:31:07] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:31:30] [Server thread/INFO]: <Kratzzi> woxed
+[00:31:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:31:37] [Server thread/INFO]: <WoxedPL> yeah?
+[00:31:39] [Server thread/INFO]: DokiDokiWakuWaku was slain by Zombie
+[00:31:39] [Server thread/INFO]: Created new backpack backup file for DokiDokiWakuWaku with unique ID travelersbackpack.snow_11.04.2025-00.31.39.dat
+[00:31:49] [Server thread/INFO]: <Kratzzi> mind if i build a bridge here to the other side of the river?
+[00:31:53] [User Authenticator #52/INFO]: UUID of player bighotmaddog is 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:31:53] [Server thread/INFO]: [Handshake] Sending channel query
+[00:31:54] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[00:31:54] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[00:31:54] [Server thread/INFO]: bighotmaddog[/100.0.177.219:60179] logged in with entity id 505256 at (2625.602570635799, 91.0, 7887.099305189168)
+[00:31:54] [Server thread/INFO]: Syncing config to bighotmaddog (154c7459-7d96-4c8e-95f4-85211e9d9749)
+[00:31:54] [Server thread/INFO]: Loading config from file...
+[00:31:54] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:31:54] [Server thread/INFO]: bighotmaddog joined the game
+[00:31:54] [Server thread/INFO]: bighotmaddog has made the advancement [Plushies!]
+[00:31:54] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:31:55] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:31:55] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:31:55] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:31:55] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:31:55] [Server thread/INFO]: [bclib] 	- Offering Folder /home/rsa-key-20250402/yuyucraftServerFiles/bclib-sync (allowDelete=true)
+[00:31:59] [Server thread/INFO]: <WoxedPL> not at all
+[00:32:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[00:32:07] [Server thread/INFO]: <Kratzzi> alr thanks
+[00:32:07] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[00:32:07] [Server thread/INFO]: bighotmaddog lost connection: Disconnected
+[00:32:07] [Server thread/INFO]: bighotmaddog left the game
+[00:32:07] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[00:32:17] [Server thread/INFO]: <DokiDokiWakuWaku> i dont even know
+[00:32:21] [Server thread/INFO]: <DokiDokiWakuWaku> i need a drill
+[00:32:24] [Server thread/INFO]: <DokiDokiWakuWaku> to dig down fast
+[00:32:43] [Server thread/INFO]: <DokiDokiWakuWaku> diamond pick it is
+[00:32:52] [Server thread/INFO]: <DokiDokiWakuWaku> to dig down to a dungeon full of zombies that insta-kill me
+[00:33:09] [Server thread/INFO]: <DokiDokiWakuWaku> and i mean
+[00:33:16] [Server thread/INFO]: <DokiDokiWakuWaku> insta kill me with crystal heart + armor
+[00:33:48] [Server thread/INFO]: <DokiDokiWakuWaku> koishi doesnt get attacked by anyone
+[00:33:49] [Server thread/INFO]: <DokiDokiWakuWaku> at all
+[00:34:22] [Server thread/INFO]: <DokiDokiWakuWaku> edwin scared me
+[00:35:15] [Server thread/INFO]: <DokiDokiWakuWaku> i got my items back after dying to lag and got greedy and died to a zombie
+[00:35:45] [Server thread/INFO]: <DokiDokiWakuWaku> i want my sharpness 3 fire aspect hammer back
+[00:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[00:36:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
+[00:36:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3149ms or 62 ticks behind
+[00:36:29] [Server thread/INFO]: Villager class_1646['Toolsmith'/507398, l='ServerLevel[world]', x=4489.62, y=225.00, z=5601.35] died, message: 'Toolsmith burned to death'
+[00:36:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
+[00:36:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:37:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[00:37:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:38:09] [Server thread/INFO]: <DokiDokiWakuWaku> nope
+[00:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[00:38:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:39:13] [Server thread/INFO]: DokiDokiWakuWaku was shot by Skeleton
+[00:39:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2438ms or 48 ticks behind
+[00:39:20] [Server thread/INFO]: <DokiDokiWakuWaku> im gonna kill myself
+[00:39:41] [Server thread/INFO]: <DokiDokiWakuWaku> im so tired of this
+[00:39:47] [Server thread/INFO]: <DokiDokiWakuWaku> ive been at it for 40 minutes
+[00:40:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:41:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3257ms or 65 ticks behind
+[00:41:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4496ms or 89 ticks behind
+[00:41:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2949ms or 58 ticks behind
+[00:42:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3046ms or 60 ticks behind
+[00:42:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3200ms or 64 ticks behind
+[00:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
+[00:43:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3940ms or 78 ticks behind
+[00:43:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3336ms or 66 ticks behind
+[00:44:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[00:44:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:44:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
+[00:44:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:45:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:45:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:45:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:46:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:46:41] [Server thread/INFO]: <DokiDokiWakuWaku> FUCKING FINALLY
+[00:46:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:47:19] [Server thread/INFO]: <DokiDokiWakuWaku> having to walk here 5 times is fucking annoying tho
+[00:47:25] [Server thread/INFO]: <WoxedPL> Kratzzi
+[00:47:31] [Server thread/INFO]: <Kratzzi> tes?
+[00:47:32] [Server thread/INFO]: <WoxedPL> im gonna leave soon
+[00:47:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:47:34] [Server thread/INFO]: <Kratzzi> alr
+[00:47:49] [Server thread/INFO]: <WoxedPL> tell me if one of those cauldrons gonna fill up
+[00:47:51] [Server thread/INFO]: <WoxedPL> with lava
+[00:47:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[00:47:59] [Server thread/INFO]: <Kratzzi> once i come back, gonna go get sand
+[00:48:10] [Server thread/INFO]: <Kratzzi> i mean normal san
+[00:48:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:48:20] [Server thread/INFO]: <WoxedPL> alright
+[00:48:34] [Server thread/INFO]: <WoxedPL> just check them when you are back
+[00:48:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3827ms or 76 ticks behind
+[00:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4862ms or 97 ticks behind
+[00:48:56] [Server thread/INFO]: <WoxedPL> anyways
+[00:48:58] [Server thread/INFO]: <WoxedPL> bye bye
+[00:49:00] [Server thread/INFO]: WoxedPL lost connection: Disconnected
+[00:49:00] [Server thread/INFO]: WoxedPL left the game
+[00:49:00] [Server thread/INFO]: Updating all forceload tickets for 236436e1-7397-484d-b58d-5d44a7223c7d
+[00:49:01] [Server thread/INFO]: <Kratzzi> see ya
+[00:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[00:49:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[00:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
+[00:50:01] [Worker-Main-4/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[00:50:04] [Server thread/INFO]: <DokiDokiWakuWaku> WHAT THE FUCK WAS ThAT JUMPSCARE
+[00:50:12] [Server thread/INFO]: <DokiDokiWakuWaku> I OPEN A DOOR AND THERES 4 CREEPERS IN THERE
+[00:50:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[00:50:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
+[00:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:51:12] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [Cover Me with Diamonds]
+[00:51:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[00:51:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4617ms or 92 ticks behind
+[00:51:59] [Server thread/INFO]: <DokiDokiWakuWaku> when you said "we dont know whats going on inside his head" i thought of the okuu egg video
+[00:52:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:52:53] [Server thread/INFO]: <DokiDokiWakuWaku> what about the crip moon
+[00:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7276ms or 145 ticks behind
+[00:53:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10531ms or 210 ticks behind
+[00:53:36] [Server thread/INFO]: <DokiDokiWakuWaku> i figured out you can dual-wield the kirk hammer swords
+[00:53:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9515ms or 190 ticks behind
+[00:54:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11818ms or 236 ticks behind
+[00:54:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10481ms or 209 ticks behind
+[00:54:51] [Server thread/INFO]: Villager class_1646['Unemployed'/527166, l='ServerLevel[world]', x=4445.55, y=65.77, z=5627.62] died, message: 'Unemployed was shot by Spy'
+[00:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11203ms or 224 ticks behind
+[00:55:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6622ms or 132 ticks behind
+[00:55:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5815ms or 116 ticks behind
+[00:56:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5064ms or 101 ticks behind
+[00:56:15] [Server thread/INFO]: <DokiDokiWakuWaku> i got a second pair of feral claws
+[00:56:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4530ms or 90 ticks behind
+[00:56:31] [Server thread/INFO]: <DokiDokiWakuWaku> who wants them
+[00:56:32] [Server thread/INFO]: <DokiDokiWakuWaku> and yes
+[00:56:33] [Server thread/INFO]: <Hunja10> here
+[00:56:35] [Server thread/INFO]: <DokiDokiWakuWaku> i am giving them away
+[00:56:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6095ms or 121 ticks behind
+[00:57:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8149ms or 162 ticks behind
+[00:57:22] [Server thread/INFO]: <DokiDokiWakuWaku> kratzzi
+[00:57:27] [Server thread/INFO]: <DokiDokiWakuWaku> i can play the
+[00:57:29] [Server thread/INFO]: <DokiDokiWakuWaku> jpeg playlist
+[00:57:31] [Server thread/INFO]: <DokiDokiWakuWaku> now
+[00:57:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8910ms or 178 ticks behind
+[00:57:43] [Server thread/INFO]: <DokiDokiWakuWaku> lemme get home first
+[00:57:55] [Worker-Main-4/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[00:57:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5935ms or 118 ticks behind
+[00:57:59] [pool-10-thread-21/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/forgotten], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach]] from pos class_2338{x=645, y=72, z=-235}
+[00:58:01] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=646, y=71, z=-235} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[00:58:01] [Server thread/WARN]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location class_2338{x=646, y=71, z=-235}
+[00:58:01] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=644, y=71, z=-235} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[00:58:01] [Server thread/WARN]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location class_2338{x=644, y=71, z=-235}
+[00:58:01] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=644, y=72, z=-235} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[00:58:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location class_2338{x=644, y=72, z=-235}
+[00:58:01] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=645, y=72, z=-235} but found not block entity block Block{minecraft:stripped_spruce_log}[axis=y] at location
+[00:58:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stripped_spruce_log}[axis=y] but failed at location class_2338{x=645, y=72, z=-235}
+[00:58:01] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=646, y=72, z=-235} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[00:58:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location class_2338{x=646, y=72, z=-235}
+[00:58:05] [Worker-Main-4/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[00:58:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6543ms or 130 ticks behind
+[00:58:29] [Server thread/INFO]: <DokiDokiWakuWaku> HOME SWEET HOME
+[00:58:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4954ms or 99 ticks behind
+[00:58:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
+[00:59:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8700ms or 174 ticks behind
+[00:59:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13880ms or 277 ticks behind
+[00:59:55] [pool-10-thread-22/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/pumpkin_patch], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos class_2338{x=949, y=67, z=-251}
+[00:59:56] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=949, y=67, z=-252} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[00:59:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location class_2338{x=949, y=67, z=-252}
+[00:59:56] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=949, y=66, z=-252} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[00:59:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=949, y=66, z=-252}
+[00:59:56] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=949, y=67, z=-251} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[00:59:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location class_2338{x=949, y=67, z=-251}
+[01:00:08] [Server thread/INFO]: <DokiDokiWakuWaku> just warning you, the playlist might be too cool for you
+[01:00:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2865ms or 57 ticks behind
+[01:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3678ms or 73 ticks behind
+[01:00:43] [Server thread/INFO]: <DokiDokiWakuWaku> my parents are asleep behind a thin wall and no doors
+[01:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2951ms or 59 ticks behind
+[01:00:48] [Server thread/INFO]: <DokiDokiWakuWaku> if i speak i will get my ass beat
+[01:01:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3580ms or 71 ticks behind
+[01:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:01:41] [Server thread/INFO]: <DokiDokiWakuWaku> too sigma for you
+[01:01:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:01:56] [Server thread/INFO]: <DokiDokiWakuWaku> this is the only good song on the playlist btw
+[01:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
+[01:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:03:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:03:47] [Server thread/INFO]: <DokiDokiWakuWaku> you dont say
+[01:05:06] [Server thread/WARN]: Kratzzi moved wrongly!
+[01:05:54] [Server thread/INFO]: <DokiDokiWakuWaku> i hate this song
+[01:06:20] [Server thread/INFO]: <DokiDokiWakuWaku> because the playlist is made to be as edgy as possible
+[01:06:51] [Server thread/INFO]: <DokiDokiWakuWaku> also i didnt add this specific song
+[01:06:52] [Server thread/INFO]: <DokiDokiWakuWaku> it just
+[01:07:03] [Server thread/INFO]: <DokiDokiWakuWaku> no its bot being fucky
+[01:07:21] [Server thread/INFO]: <DokiDokiWakuWaku> this is NOT monster by skillet
+[01:07:57] [Server thread/WARN]: Kratzzi moved wrongly!
+[01:09:03] [Server thread/INFO]: <DokiDokiWakuWaku> I HAVE DONE IT
+[01:09:07] [Server thread/INFO]: <DokiDokiWakuWaku> I CRAFTED A FUMBO
+[01:10:01] [Server thread/INFO]: <DokiDokiWakuWaku> yes
+[01:10:14] [Server thread/INFO]: <DokiDokiWakuWaku> oh they are?
+[01:10:34] [User Authenticator #53/INFO]: UUID of player bighotmaddog is 154c7459-7d96-4c8e-95f4-85211e9d9749
+[01:10:34] [Server thread/INFO]: [Handshake] Sending channel query
+[01:10:34] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[01:10:34] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[01:10:35] [Server thread/INFO]: bighotmaddog[/100.0.177.219:51499] logged in with entity id 549326 at (2625.5713244714416, 91.0, 7886.624135531188)
+[01:10:35] [Server thread/INFO]: Syncing config to bighotmaddog (154c7459-7d96-4c8e-95f4-85211e9d9749)
+[01:10:35] [Server thread/INFO]: Loading config from file...
+[01:10:35] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:10:35] [Server thread/INFO]: bighotmaddog joined the game
+[01:10:35] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[01:10:38] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:10:38] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:10:38] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:10:38] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:10:38] [Server thread/INFO]: [bclib] 	- Offering Folder /home/rsa-key-20250402/yuyucraftServerFiles/bclib-sync (allowDelete=true)
+[01:10:40] [Server thread/INFO]: bighotmaddog lost connection: Disconnected
+[01:10:40] [Server thread/INFO]: bighotmaddog left the game
+[01:10:40] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[01:10:50] [User Authenticator #54/INFO]: UUID of player bighotmaddog is 154c7459-7d96-4c8e-95f4-85211e9d9749
+[01:10:50] [Server thread/INFO]: [Handshake] Sending channel query
+[01:10:50] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[01:10:50] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[01:10:50] [Server thread/INFO]: bighotmaddog[/100.0.177.219:51636] logged in with entity id 549672 at (2625.5713244714416, 91.0, 7886.624135531188)
+[01:10:50] [Server thread/INFO]: Syncing config to bighotmaddog (154c7459-7d96-4c8e-95f4-85211e9d9749)
+[01:10:50] [Server thread/INFO]: Loading config from file...
+[01:10:50] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:10:50] [Server thread/INFO]: bighotmaddog joined the game
+[01:10:50] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[01:10:51] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:10:51] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:10:51] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:10:51] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:10:51] [Server thread/INFO]: [bclib] 	- Offering Folder /home/rsa-key-20250402/yuyucraftServerFiles/bclib-sync (allowDelete=true)
+[01:11:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01:11:22] [Server thread/WARN]: Kratzzi moved wrongly!
+[01:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[01:11:35] [Server thread/INFO]: <DokiDokiWakuWaku> i hate that this song isnt even bad
+[01:11:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[01:12:07] [Server thread/INFO]: <DokiDokiWakuWaku> dont worry we have that on the playlist too
+[01:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01:12:27] [Server thread/INFO]: <DokiDokiWakuWaku> oh fuck nvm
+[01:12:31] [Server thread/INFO]: <DokiDokiWakuWaku> i forgot to put it there
+[01:12:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:12:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:13:00] [Server thread/INFO]: bighotmaddog has made the advancement [Penteconter]
+[01:13:01] [Server thread/INFO]: <DokiDokiWakuWaku> i put emperors new clothes there for some reason even tho it isnt sigma wolf-core
+[01:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:13:26] [Server thread/INFO]: <DokiDokiWakuWaku> IT STARTS WITH
+[01:13:32] [Server thread/INFO]: <DokiDokiWakuWaku> ONE THING I DONT KNOW WHY
+[01:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:14:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:14:17] [Server thread/INFO]: <DokiDokiWakuWaku> IT DOESNT EVEN MATTE
+[01:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[01:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:14:42] [Server thread/INFO]: <DokiDokiWakuWaku> on everyones soul, we (yes, me and you) ARE ALL GOONING TO THE KAGEROU/WAKA CAVE
+[01:14:49] [Server thread/INFO]: <DokiDokiWakuWaku> it does not
+[01:14:52] [Server thread/INFO]: <DokiDokiWakuWaku> it says 1/4
+[01:14:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:15:09] [Server thread/INFO]: <DokiDokiWakuWaku> I STROKED SO BAD, AND GOT SO HARD
+[01:15:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:15:26] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -8.655672702850552,-0.0030765267766241777,5.249007924811394
+[01:15:26] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -8.83264887352118,-0.0031324624680877378,5.51945158191279
+[01:15:26] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -9.002638211635485,-0.00318736058014224,5.786886693087581
+[01:15:26] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -9.165836422489974,-0.0032412387267015674,6.050396245355614
+[01:15:26] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -9.32248365746318,-0.0032941137368851514,6.309236507455125
+[01:15:26] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -9.472849324848994,-0.0033460016901614154,6.562813056910272
+[01:15:26] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -9.617217937761325,-0.0033969203338131138,6.810660834474902
+[01:15:26] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -9.755880312465706,-0.0034468866245731533,7.052425574348263
+[01:15:26] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -9.88912692617157,-0.0034959167636543498,7.28784760652843
+[01:15:26] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -10.017244341298351,-0.003544026230485997,7.516747130198837
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.28259717666981,-0.0022563571211264843,8.545340512552912
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.315109375626548,-0.0022700653590419506,8.582250793108187
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.347362597894403,-0.002283503834092926,8.618654343895514
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.3793678233408855,-0.002296677411649739,8.654575941869098
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.411135498223757,-0.002309590740324552,8.690039243244428
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.442675560521252,-0.0023222482616347406,8.725066828471881
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.47399781048648,-0.0023346542192257402,8.759679986632136
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.505111534069329,-0.0023468126676959855,8.793899059621708
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.536025532956387,-0.002358727481023948,8.827743477461809
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.56674815171516,-0.0023704047447807852,8.861231791318914
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.597287303217968,-0.002381850273394548,8.894381708298852
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.6276508185674174,-0.002393069622272037,8.927209870401612
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.657846092729756,-0.002404068099366441,8.959732180906258
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.687880111147251,-0.0024148507761196925,8.991963827971631
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.7177594756277585,-0.002425422498077978,9.02391931149441
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.747490740299895,-0.0024357878948961798,9.055612216699046
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.77707976296972,-0.0024459513899728336,9.08705577892465
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.806532394520104,-0.0024559172096445536,9.118262363519989
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.835854446972235,-0.002465689391954129,9.149243528022907
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.865051064747945,-0.0024752717950917713,9.180010577554867
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.894127397906686,-0.002484668105324772,9.210574041560903
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.923088276187059,-0.0024938818447139965,9.240943979554913
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.95193823169825,-0.002502916378418263,9.271129992857368
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -5.980681811537465,-0.002511774921671872,9.30114099137063
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.009323261339318,-0.0025204605464779206,9.330985491690399
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.0378665486180125,-0.002528976187960552,9.360671625988289
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.0663156678073165,-0.002537324650504047,9.390206902884984
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.094674050585013,-0.0025455086135650618,9.419598750918794
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.122945473013601,-0.0025535306372006517,9.448853741044559
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.151133148453027,-0.0025613931674399737,9.477978416615542
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.1792403479056475,-0.00256909854132914,9.506978760240372
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.20727009975235,-0.0025766489918055413,9.535860486233105
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.235225210534736,-0.002584046652330585,9.56462904391151
+[01:15:27] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! -6.263108552513927,-0.002591293561323482,9.593289370900038
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 12.128316671612538,0.0028745808733532385,-19.27335051289765
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 12.128316671612538,0.0028745808733532385,-19.27335051289765
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 12.128316671612538,0.0028745808733532385,-19.27335051289765
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 12.128316671612538,0.0028745808733532385,-19.27335051289765
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 12.128316671612538,0.0028745808733532385,-19.27335051289765
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 12.128316671612538,0.0028745808733532385,-19.27335051289765
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 12.128316671612538,0.0028745808733532385,-19.27335051289765
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 12.128316671612538,0.0028745808733532385,-19.27335051289765
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 12.128316671612538,0.0028745808733532385,-19.27335051289765
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 12.128316671612538,0.0028745808733532385,-19.27335051289765
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 12.025012335883503,0.0028728266712363393,-18.936097681072624
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.878502214020955,6.32206845239125E-4,-10.76545295632718
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.75908420400026,6.304711881028879E-4,-10.433534446289059
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.625608996021356,6.287532497708526E-4,-10.10627381858285
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.479799022720954,6.27052240872672E-4,-9.783065359420561
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.323105227063593,6.253674072098647E-4,-9.463372178658346
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 6.156752211674984,6.236980281641991E-4,-9.146725731489823
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 5.981778435046408,6.220434152481857E-4,-8.832720084109951
+[01:15:28] [Server thread/WARN]: Cargo Airship (vehicle of Kratzzi) moved too quickly! 5.799065265957324,6.204029106271491E-4,-8.521008406205965
+[01:15:33] [Server thread/INFO]: <Kratzzi> t
+[01:15:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[01:15:39] [Server thread/INFO]: <DokiDokiWakuWaku> IV PUT MY DIH, IN YOUUU
+[01:15:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4088ms or 81 ticks behind
+[01:16:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3078ms or 61 ticks behind
+[01:16:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4305ms or 86 ticks behind
+[01:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4682ms or 93 ticks behind
+[01:16:51] [Server thread/INFO]: <DokiDokiWakuWaku> honestly this one
+[01:16:54] [Server thread/INFO]: <DokiDokiWakuWaku> doesnt fit
+[01:16:57] [Server thread/INFO]: <DokiDokiWakuWaku> i should skip
+[01:17:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[01:17:15] [Server thread/INFO]: <DokiDokiWakuWaku> THIS ONE DOES THO
+[01:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01:17:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
+[01:18:20] [Server thread/INFO]: <Kratzzi> 416, 1791
+[01:18:22] [Server thread/INFO]: <DokiDokiWakuWaku> next time im doing a yt playlist with direct links so it doesnt fuck it up
+[01:18:35] [Server thread/INFO]: <DokiDokiWakuWaku> thats 4k in both direction
+[01:18:38] [Server thread/INFO]: <DokiDokiWakuWaku> :sob:
+[01:19:35] [Server thread/INFO]: bighotmaddog has made the advancement [Barn House]
+[01:19:42] [Server thread/INFO]: <DokiDokiWakuWaku> i don know
+[01:20:05] [Server thread/INFO]: <DokiDokiWakuWaku> yes
+[01:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3378ms or 67 ticks behind
+[01:20:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
+[01:21:03] [Server thread/INFO]: <DokiDokiWakuWaku> we have cat
+[01:21:04] [Server thread/INFO]: <DokiDokiWakuWaku> 13
+[01:21:14] [Server thread/INFO]: <DokiDokiWakuWaku> and 2 modded ones
+[01:21:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01:21:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[01:21:38] [Server thread/INFO]: Villager class_1646['Unemployed'/558821, l='ServerLevel[world]', x=3286.09, y=111.00, z=6922.34] died, message: 'Unemployed was slain by Zombie'
+[01:21:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[01:22:11] [pool-10-thread-23/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean]] from pos class_2338{x=3131, y=74, z=7077}
+[01:22:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3131, y=74, z=7078} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[01:22:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location class_2338{x=3131, y=74, z=7078}
+[01:22:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3131, y=74, z=7076} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[01:22:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location class_2338{x=3131, y=74, z=7076}
+[01:22:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3131, y=73, z=7076} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[01:22:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=3131, y=73, z=7076}
+[01:22:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3131, y=73, z=7078} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[01:22:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=3131, y=73, z=7078}
+[01:22:11] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3131, y=74, z=7077} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] at location
+[01:22:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] but failed at location class_2338{x=3131, y=74, z=7077}
+[01:22:21] [Server thread/INFO]: <DokiDokiWakuWaku> hunja
+[01:22:23] [Server thread/INFO]: <DokiDokiWakuWaku> turn around
+[01:22:23] [Server thread/INFO]: Villager class_1646['Unemployed'/558664, l='ServerLevel[world]', x=3289.23, y=108.00, z=6916.76] died, message: 'Unemployed was slain by Zombie Villager'
+[01:22:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11891ms or 237 ticks behind
+[01:22:28] [Server thread/INFO]: <DokiDokiWakuWaku> READ CHAT
+[01:22:41] [Server thread/INFO]: <DokiDokiWakuWaku> behind you
+[01:22:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6607ms or 132 ticks behind
+[01:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3113ms or 62 ticks behind
+[01:23:04] [Server thread/INFO]: <DokiDokiWakuWaku> actually look behind you tho
+[01:23:07] [Server thread/INFO]: <DokiDokiWakuWaku> or next to you now
+[01:23:08] [Server thread/INFO]: <DokiDokiWakuWaku> ig
+[01:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3045ms or 60 ticks behind
+[01:23:29] [Server thread/INFO]: <DokiDokiWakuWaku> MOST FUMOS COST NETHERITE AND ABSURD SHIT
+[01:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[01:23:46] [Server thread/WARN]: Kratzzi moved wrongly!
+[01:23:59] [Server thread/INFO]: <DokiDokiWakuWaku> this one was a fish, glow sacks, amethyst and a potion
+[01:24:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:24:14] [pool-10-thread-24/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/skyris], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/pumpkin_patch], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga]] from pos class_2338{x=3131, y=79, z=6709}
+[01:24:18] [Server thread/INFO]: <DokiDokiWakuWaku> eiki is netherite for example and a bunch of shit
+[01:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3403ms or 68 ticks behind
+[01:24:21] [Server thread/INFO]: <DokiDokiWakuWaku> reimu is 2 notch apples
+[01:24:25] [Server thread/INFO]: <DokiDokiWakuWaku> yes
+[01:24:37] [pool-10-thread-24/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/red_rock], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/forgotten]] from pos class_2338{x=3429, y=71, z=6699}
+[01:24:38] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3429, y=71, z=6699} but found not block entity block Block{minecraft:air} at location
+[01:24:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=3429, y=71, z=6699}
+[01:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3487ms or 69 ticks behind
+[01:24:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4182ms or 83 ticks behind
+[01:25:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3329ms or 66 ticks behind
+[01:25:17] [Server thread/INFO]: <DokiDokiWakuWaku> LOOK AT YUYU
+[01:25:19] [Server thread/INFO]: <DokiDokiWakuWaku> also i fucking
+[01:25:22] [Server thread/INFO]: <DokiDokiWakuWaku> hate this song
+[01:25:28] [Server thread/INFO]: <DokiDokiWakuWaku> ITS SO BAD
+[01:25:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
+[01:26:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[01:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01:27:13] [Server thread/WARN]: Kratzzi moved wrongly!
+[01:27:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:27:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:27:47] [Server thread/INFO]: <DokiDokiWakuWaku> this might be the most cringy song oat
+[01:27:57] [Server thread/INFO]: <DokiDokiWakuWaku> SAME
+[01:28:06] [Server thread/INFO]: <DokiDokiWakuWaku> btw this is the official 2024 remaster
+[01:28:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3113ms or 62 ticks behind
+[01:28:14] [Server thread/INFO]: <DokiDokiWakuWaku> YES
+[01:30:02] [Server thread/INFO]: <DokiDokiWakuWaku> i contributed the most, i build the base with gnolf, i made the yuri hall, and made a fumo
+[01:30:32] [Server thread/INFO]: <DokiDokiWakuWaku> the wall
+[01:30:36] [Server thread/INFO]: <DokiDokiWakuWaku> it took a lot of effort
+[01:30:48] [Server thread/INFO]: <DokiDokiWakuWaku> i also added the boiled one
+[01:31:07] [Server thread/INFO]: <DokiDokiWakuWaku> nuh uh, the oiled one is an essential part of any base
+[01:31:44] [Server thread/INFO]: <DokiDokiWakuWaku> WE HAVE 5 NOW
+[01:32:03] [Server thread/INFO]: <DokiDokiWakuWaku> they havily discount
+[01:32:05] [Server thread/INFO]: <DokiDokiWakuWaku> trades
+[01:32:13] [Server thread/INFO]: <DokiDokiWakuWaku> peak is playing
+[01:33:02] [Server thread/INFO]: <DokiDokiWakuWaku> can i have the digger claws
+[01:33:14] [Server thread/INFO]: <Kratzzi> N
+[01:33:18] [Server thread/INFO]: <DokiDokiWakuWaku> I
+[01:33:21] [Server thread/INFO]: <Hunja10> G
+[01:33:28] [Server thread/INFO]: <bighotmaddog> e
+[01:33:28] [Server thread/INFO]: <DokiDokiWakuWaku> G
+[01:33:37] [Server thread/INFO]: <bighotmaddog> g
+[01:34:44] [Server thread/INFO]: <DokiDokiWakuWaku> don't worry little fairy player, papa mad dog has brought enough hay to last you your entire life...
+[01:35:35] [Server thread/INFO]: <DokiDokiWakuWaku> THIS IS THE SONG THAT PLAYED IN THOSE SHITTY TUTORIALS
+[01:36:24] [Server thread/INFO]: <DokiDokiWakuWaku> the what
+[01:36:26] [Server thread/INFO]: <DokiDokiWakuWaku> oh
+[01:36:29] [Server thread/INFO]: <DokiDokiWakuWaku> yea follow me
+[01:37:10] [Server thread/INFO]: <DokiDokiWakuWaku> we already have it at home tho
+[01:37:14] [Server thread/INFO]: <DokiDokiWakuWaku> amethysst i mean
+[01:37:16] [Server thread/INFO]: <DokiDokiWakuWaku> we need obsidian
+[01:37:18] [Server thread/INFO]: <DokiDokiWakuWaku> and pearls
+[01:37:25] [Server thread/INFO]: <DokiDokiWakuWaku> normal
+[01:37:55] [Server thread/WARN]: Kratzzi moved wrongly!
+[01:38:54] [Server thread/INFO]: <DokiDokiWakuWaku> mcr song
+[01:39:03] [Server thread/INFO]: <DokiDokiWakuWaku> i used to
+[01:39:06] [Server thread/INFO]: <DokiDokiWakuWaku> still do sometimes
+[01:39:52] [Server thread/INFO]: <DokiDokiWakuWaku> fellering?
+[01:40:19] [Server thread/INFO]: <DokiDokiWakuWaku> i like this song actually
+[01:40:35] [Server thread/INFO]: <DokiDokiWakuWaku> unused black parade track
+[01:40:43] [Server thread/INFO]: <DokiDokiWakuWaku> it didnt fit the album
+[01:40:49] [Server thread/INFO]: <DokiDokiWakuWaku> so it got turned into an extra
+[01:40:55] [Server thread/INFO]: <DokiDokiWakuWaku> might be my fav mcr song
+[01:41:23] [Server thread/INFO]: <DokiDokiWakuWaku> im dual wielding silver swords
+[01:42:02] [Server thread/INFO]: <DokiDokiWakuWaku> i can now switch between hammer and dual-wield
+[01:42:15] [Server thread/INFO]: <DokiDokiWakuWaku> its only natural
+[01:42:27] [Server thread/INFO]: <DokiDokiWakuWaku> can ore go in yet
+[01:42:28] [Server thread/INFO]: <DokiDokiWakuWaku> or not
+[01:42:38] [Server thread/INFO]: <DokiDokiWakuWaku> hunja
+[01:42:43] [Server thread/INFO]: <DokiDokiWakuWaku> answer me
+[01:45:23] [Server thread/INFO]: <DokiDokiWakuWaku> ok so diamond doesnt work i see
+[01:46:00] [Server thread/INFO]: <DokiDokiWakuWaku> no but we have 4 blocks of gold
+[01:46:12] [Server thread/INFO]: <DokiDokiWakuWaku> because you have the slim bodytype
+[01:46:16] [Server thread/INFO]: <DokiDokiWakuWaku> i said it before
+[01:46:22] [Server thread/INFO]: <DokiDokiWakuWaku> ITS THE SONG
+[01:46:30] [Server thread/INFO]: bighotmaddog has made the advancement [Sandblasted Corridors]
+[01:46:32] [Server thread/INFO]: <DokiDokiWakuWaku> IM FEELING THE WOLF COMING INSIDE OF MEEEE
+[01:46:34] [Server thread/INFO]: <DokiDokiWakuWaku> RAAAAAAAAAHHH
+[01:46:48] [Server thread/INFO]: <DokiDokiWakuWaku> I FEEL IT DEEP WITHIN
+[01:46:52] [Server thread/INFO]: <DokiDokiWakuWaku> ITS JUST BENEATH THE SKIN
+[01:47:40] [Server thread/INFO]: <DokiDokiWakuWaku> we have 4 blocks
+[01:47:41] [Server thread/INFO]: <DokiDokiWakuWaku> go wild
+[01:48:45] [Server thread/INFO]: <DokiDokiWakuWaku> me
+[01:49:19] [Server thread/INFO]: <DokiDokiWakuWaku> i feel so sigma
+[01:50:22] [Server thread/INFO]: <DokiDokiWakuWaku> what the actual fuck is soot covered redstone
+[01:50:28] [Server thread/INFO]: <DokiDokiWakuWaku> like the guy from gravity falls?
+[01:51:12] [Server thread/INFO]: <DokiDokiWakuWaku> CAN YOU RIZZ MY GYAAAAAT
+[01:51:19] [Server thread/INFO]: <Hunja10> kys
+[01:51:45] [Server thread/INFO]: <DokiDokiWakuWaku> water on lava
+[01:53:07] [Server thread/INFO]: <DokiDokiWakuWaku> THIS IS THE JPEG SONG
+[01:53:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2890ms or 57 ticks behind
+[01:54:02] [Server thread/INFO]: <DokiDokiWakuWaku> same with forging for me
+[01:54:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
+[01:54:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[01:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[01:55:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:55:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01:55:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:56:06] [User Authenticator #55/INFO]: UUID of player Neisbor is 26ee0af5-e9bc-402c-bdf2-872a31e223db
+[01:56:06] [Server thread/INFO]: [Handshake] Sending channel query
+[01:56:07] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[01:56:07] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[01:56:07] [Server thread/INFO]: Neisbor[/190.237.61.157:58133] logged in with entity id 592457 at (-46.5, 69.0, 22.5)
+[01:56:07] [Server thread/INFO]: Syncing config to Neisbor (26ee0af5-e9bc-402c-bdf2-872a31e223db)
+[01:56:07] [Server thread/INFO]: Loading config from file...
+[01:56:07] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:56:07] [Server thread/INFO]: Neisbor joined the game
+[01:56:08] [Server thread/INFO]: Neisbor has made the advancement [Plushies!]
+[01:56:08] [Server thread/INFO]: Neisbor has made the advancement [Modern Industrialization]
+[01:56:08] [Server thread/INFO]: Updating all forceload tickets for 26ee0af5-e9bc-402c-bdf2-872a31e223db
+[01:56:12] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:56:12] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:56:12] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:56:12] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:56:12] [Server thread/INFO]: [bclib] 	- Offering Folder /home/rsa-key-20250402/yuyucraftServerFiles/bclib-sync (allowDelete=true)
+[01:56:13] [Server thread/INFO]: Neisbor lost connection: Disconnected
+[01:56:13] [Server thread/INFO]: Neisbor left the game
+[01:56:13] [Server thread/INFO]: Updating all forceload tickets for 26ee0af5-e9bc-402c-bdf2-872a31e223db
+[01:56:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3250ms or 65 ticks behind
+[01:56:16] [Server thread/INFO]: <DokiDokiWakuWaku> hello neisbor
+[01:56:22] [Server thread/INFO]: <DokiDokiWakuWaku> like the game
+[01:56:28] [User Authenticator #56/INFO]: UUID of player Neisbor is 26ee0af5-e9bc-402c-bdf2-872a31e223db
+[01:56:28] [Server thread/INFO]: [Handshake] Sending channel query
+[01:56:28] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[01:56:28] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[01:56:29] [Server thread/INFO]: Neisbor[/190.237.61.157:58163] logged in with entity id 592927 at (-46.5, 69.0, 22.5)
+[01:56:29] [Server thread/INFO]: Syncing config to Neisbor (26ee0af5-e9bc-402c-bdf2-872a31e223db)
+[01:56:29] [Server thread/INFO]: Loading config from file...
+[01:56:29] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:56:29] [Server thread/INFO]: Neisbor joined the game
+[01:56:29] [Server thread/INFO]: Updating all forceload tickets for 26ee0af5-e9bc-402c-bdf2-872a31e223db
+[01:56:30] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:56:30] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:56:30] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:56:30] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:56:30] [Server thread/INFO]: [bclib] 	- Offering Folder /home/rsa-key-20250402/yuyucraftServerFiles/bclib-sync (allowDelete=true)
+[01:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
+[01:56:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4664ms or 93 ticks behind
+[01:57:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4967ms or 99 ticks behind
+[01:57:24] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [The Beginning]
+[01:57:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4524ms or 90 ticks behind
+[01:57:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5354ms or 107 ticks behind
+[01:58:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5411ms or 108 ticks behind
+[01:58:26] [Server thread/INFO]: <DokiDokiWakuWaku> inchling
+[01:58:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6539ms or 130 ticks behind
+[01:58:48] [Server thread/INFO]: <DokiDokiWakuWaku> wtf is a bauxite
+[01:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6111ms or 122 ticks behind
+[01:59:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3721ms or 74 ticks behind
+[01:59:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3696ms or 73 ticks behind
+[01:59:46] [Server thread/INFO]: <DokiDokiWakuWaku> A LOT OF IT
+[01:59:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
+[02:00:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[02:00:11] [Server thread/INFO]: <DokiDokiWakuWaku> somewhre where gnolf doesnt complain
+[02:00:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:00:33] [Server thread/INFO]: <DokiDokiWakuWaku> you?
+[02:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[02:01:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
+[02:01:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2280ms or 45 ticks behind
+[02:01:25] [Server thread/INFO]: Player literal{Neisbor} chose Origin: origins:human, for layer: origins:origin
+[02:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[02:01:36] [Server thread/INFO]: Player literal{Neisbor} chose Origin: origins-classes:miner, for layer: origins-classes:class
+[02:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2714ms or 54 ticks behind
+[02:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4454ms or 89 ticks behind
+[02:02:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4624ms or 92 ticks behind
+[02:02:32] [Server thread/INFO]: Player literal{Neisbor} chose Origin: touhoublessings:moriya, for layer: touhoublessings:blessing
+[02:02:35] [Server thread/INFO]: <DokiDokiWakuWaku> same
+[02:02:36] [Server thread/INFO]: <DokiDokiWakuWaku> lmao
+[02:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5600ms or 112 ticks behind
+[02:03:03] [Server thread/INFO]: <DokiDokiWakuWaku> idk
+[02:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5370ms or 107 ticks behind
+[02:03:17] [Server thread/INFO]: <DokiDokiWakuWaku> btw i got us like 20 more diamonds
+[02:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4548ms or 90 ticks behind
+[02:03:50] [Server thread/INFO]: <DokiDokiWakuWaku> I FOUND BUNNY SLIPPERS
+[02:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4883ms or 97 ticks behind
+[02:04:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5906ms or 118 ticks behind
+[02:04:34] [Server thread/INFO]: <DokiDokiWakuWaku> im busy
+[02:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6622ms or 132 ticks behind
+[02:04:37] [Server thread/INFO]: <DokiDokiWakuWaku> i mined 30 diamonds
+[02:04:49] [Server thread/INFO]: bighotmaddog has made the advancement [Time for a Sweat]
+[02:04:49] [Server thread/INFO]: bighotmaddog has made the advancement [Incendium]
+[02:04:49] [Server thread/INFO]: bighotmaddog has made the advancement [We Need to Go Deeper]
+[02:05:00] [Server thread/WARN]: Hunja10 moved too quickly! -7.640845452639951,2.252203340253729,6.137332714110016
+[02:05:00] [Server thread/INFO]: bighotmaddog has made the advancement [A Terrible Fortress]
+[02:05:00] [Server thread/INFO]: Kratzzi lost connection: Disconnected
+[02:05:00] [Server thread/INFO]: Kratzzi left the game
+[02:05:00] [Server thread/INFO]: Updating all forceload tickets for 0ad41b89-440e-420f-a187-bc1d8855beb4
+[02:05:00] [Server thread/INFO]: <DokiDokiWakuWaku> don't careee
+[02:05:00] [Server thread/INFO]: <DokiDokiWakuWaku> LAG
+[02:05:01] [User Authenticator #57/INFO]: UUID of player Kratzzi is 0ad41b89-440e-420f-a187-bc1d8855beb4
+[02:05:01] [Server thread/INFO]: [Handshake] Sending channel query
+[02:05:01] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[02:05:01] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[02:05:02] [Server thread/INFO]: Kratzzi[/189.156.229.94:63495] logged in with entity id 600613 at (-37.29597691831365, 103.0, 684.2779847390482)
+[02:05:02] [Server thread/INFO]: Syncing config to Kratzzi (0ad41b89-440e-420f-a187-bc1d8855beb4)
+[02:05:02] [Server thread/INFO]: Loading config from file...
+[02:05:02] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:05:02] [Server thread/INFO]: Kratzzi joined the game
+[02:05:02] [Server thread/INFO]: Updating all forceload tickets for 0ad41b89-440e-420f-a187-bc1d8855beb4
+[02:05:03] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:05:03] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:05:03] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:05:03] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:05:03] [Server thread/INFO]: [bclib] 	- Offering Folder /home/rsa-key-20250402/yuyucraftServerFiles/bclib-sync (allowDelete=true)
+[02:05:18] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:05:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29447ms or 588 ticks behind
+[02:05:27] [Server thread/WARN]: bighotmaddog moved too quickly! -10.206530521567288,-1.2491870787446828,0.8161779033570156
+[02:05:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12034ms or 240 ticks behind
+[02:06:01] [Worker-Main-4/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:06:01] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:06:05] [Server thread/INFO]: Hunja10 has made the advancement [Time for a Sweat]
+[02:06:05] [Server thread/INFO]: Hunja10 has made the advancement [Incendium]
+[02:06:05] [Server thread/INFO]: Hunja10 has made the advancement [We Need to Go Deeper]
+[02:06:06] [Server thread/INFO]: Hunja10 has made the advancement [A Terrible Fortress]
+[02:06:06] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:06:07] [Worker-Main-4/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11652ms or 233 ticks behind
+[02:06:27] [Server thread/INFO]: <DokiDokiWakuWaku> i found a bunker
+[02:06:38] [Server thread/INFO]: <DokiDokiWakuWaku> no
+[02:06:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10591ms or 211 ticks behind
+[02:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7883ms or 157 ticks behind
+[02:07:21] [Server thread/INFO]: bighotmaddog has made the advancement [Oh Shiny]
+[02:07:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9373ms or 187 ticks behind
+[02:07:32] [Server thread/INFO]: bighotmaddog has made the advancement [Who is Cutting Onions?]
+[02:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9339ms or 186 ticks behind
+[02:08:01] [Server thread/INFO]: Hunja10 has made the advancement ['X' Marks the Spot]
+[02:08:01] [Server thread/INFO]: Hunja10 has made the advancement [Penteconter]
+[02:08:01] [Server thread/INFO]: Hunja10 has made the advancement [Close Quarters]
+[02:08:01] [Server thread/INFO]: Hunja10 has made the advancement [Disme A Dozen]
+[02:08:07] [Server thread/INFO]: Hunja10 has made the advancement [Archer´s Paths]
+[02:08:12] [Server thread/INFO]: Hunja10 has made the advancement [Stare Into Despair]
+[02:08:12] [Server thread/INFO]: Hunja10 has made the advancement [The Beginning of An Adventure]
+[02:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10468ms or 209 ticks behind
+[02:08:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6643ms or 132 ticks behind
+[02:08:49] [Server thread/INFO]: Hunja10 has made the advancement [Take Aim]
+[02:08:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6408ms or 128 ticks behind
+[02:09:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7077ms or 141 ticks behind
+[02:09:25] [Server thread/INFO]: <DokiDokiWakuWaku> nah, he'd live
+[02:09:35] [Server thread/INFO]: <DokiDokiWakuWaku> anyways
+[02:09:36] [Server thread/INFO]: <DokiDokiWakuWaku> 40 diamonds
+[02:09:39] [Server thread/INFO]: Neisbor has made the advancement [Stone Age]
+[02:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8708ms or 174 ticks behind
+[02:09:48] [Server thread/INFO]: Hunja10 has made the advancement [To beer or not to beer]
+[02:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8029ms or 160 ticks behind
+[02:10:19] [Server thread/INFO]: Hunja10 withered away
+[02:10:19] [Server thread/INFO]: Created new backpack backup file for Hunja10 with unique ID travelersbackpack.standard_11.04.2025-02.10.19.dat
+[02:10:19] [Server thread/INFO]: Hunja10 has made the advancement [A Terrible Fortress]
+[02:10:25] [Server thread/INFO]: Hunja10 has made the advancement [Modern Industrialization]
+[02:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7852ms or 157 ticks behind
+[02:10:32] [Server thread/INFO]: Neisbor has made the advancement [Getting an Upgrade]
+[02:10:35] [Server thread/INFO]: Player literal{Hunja10} chose Origin: touhouorigins:vampire, for layer: origins:origin
+[02:10:46] [Server thread/INFO]: Player literal{Hunja10} chose Origin: origins-classes:cook, for layer: origins-classes:class
+[02:10:49] [Server thread/INFO]: Player literal{Hunja10} chose Origin: touhoublessings:permadeath, for layer: touhoublessings:blessing
+[02:10:53] [Server thread/INFO]: Hunja10 has made the advancement [A Howling Discovery]
+[02:10:53] [Server thread/INFO]: <DokiDokiWakuWaku> ranged
+[02:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8719ms or 174 ticks behind
+[02:11:09] [Server thread/INFO]: Hunja10 has made the advancement [Time for a Sweat]
+[02:11:09] [Server thread/INFO]: Hunja10 has made the advancement [Incendium]
+[02:11:09] [Server thread/INFO]: Hunja10 has made the advancement [We Need to Go Deeper]
+[02:11:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10245ms or 204 ticks behind
+[02:11:30] [Server thread/INFO]: <DokiDokiWakuWaku> i only died 2 legit deaths
+[02:11:32] [Server thread/INFO]: Hunja10 has made the advancement [Strange Biomes]
+[02:11:32] [Server thread/INFO]: Hunja10 has made the advancement [Darude - Firestorm]
+[02:11:33] [Server thread/INFO]: <DokiDokiWakuWaku> without heavy lag
+[02:11:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8857ms or 177 ticks behind
+[02:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8811ms or 176 ticks behind
+[02:12:10] [Server thread/INFO]: Hunja10 has made the advancement ['X' Marks the Spot]
+[02:12:10] [Server thread/INFO]: Hunja10 has made the advancement [Penteconter]
+[02:12:10] [Server thread/INFO]: Hunja10 has made the advancement [Close Quarters]
+[02:12:10] [Server thread/INFO]: Hunja10 has made the advancement [Disme A Dozen]
+[02:12:12] [Server thread/INFO]: Hunja10 has made the advancement [Amateur Archaeologist]
+[02:12:30] [Server thread/INFO]: <DokiDokiWakuWaku> but would you lose
+[02:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9393ms or 187 ticks behind
+[02:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8702ms or 174 ticks behind
+[02:13:16] [Server thread/INFO]: Hunja10 was slain by Wither Skeleton
+[02:13:17] [Server thread/INFO]: Hunja10 has made the advancement [A Terrible Fortress]
+[02:13:18] [Server thread/INFO]: Hunja10 has made the advancement [Modern Industrialization]
+[02:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10299ms or 205 ticks behind
+[02:13:32] [Server thread/INFO]: Player literal{Hunja10} chose Origin: touhouorigins:fairy, for layer: origins:origin
+[02:13:38] [Server thread/INFO]: Player literal{Hunja10} chose Origin: origins-classes:explorer, for layer: origins-classes:class
+[02:13:39] [Server thread/INFO]: Player literal{Hunja10} chose Origin: touhoublessings:permadeath, for layer: touhoublessings:blessing
+[02:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8659ms or 173 ticks behind
+[02:13:47] [Server thread/INFO]: Hunja10 has made the advancement [A Howling Discovery]
+[02:13:47] [Server thread/INFO]: <DokiDokiWakuWaku> koishi is better
+[02:13:52] [Server thread/INFO]: <DokiDokiWakuWaku> if you die choose that
+[02:13:59] [Server thread/INFO]: <DokiDokiWakuWaku> its satori + string
+[02:14:01] [Server thread/INFO]: Hunja10 was shot by Skeleton
+[02:14:02] [Server thread/INFO]: Hunja10 has made the advancement [Modern Industrialization]
+[02:14:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8995ms or 179 ticks behind
+[02:14:12] [Server thread/INFO]: Player literal{Hunja10} chose Origin: touhouorigins:fairy, for layer: origins:origin
+[02:14:15] [Server thread/INFO]: Player literal{Hunja10} chose Origin: origins-classes:explorer, for layer: origins-classes:class
+[02:14:19] [Server thread/INFO]: Player literal{Hunja10} chose Origin: touhoublessings:permadeath, for layer: touhoublessings:blessing
+[02:14:22] [Server thread/INFO]: Hunja10 has made the advancement [A Howling Discovery]
+[02:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8580ms or 171 ticks behind
+[02:14:37] [Server thread/INFO]: Hunja10 has made the advancement [Time for a Sweat]
+[02:14:37] [Server thread/INFO]: Hunja10 has made the advancement [Incendium]
+[02:14:37] [Server thread/INFO]: Hunja10 has made the advancement [We Need to Go Deeper]
+[02:14:38] [Server thread/INFO]: Hunja10 has made the advancement [A Terrible Fortress]
+[02:14:40] [Server thread/INFO]: Hunja10 was shot by Skeleton
+[02:14:41] [Server thread/INFO]: Hunja10 has made the advancement [A Terrible Fortress]
+[02:14:45] [Server thread/INFO]: Hunja10 has made the advancement [Modern Industrialization]
+[02:14:52] [Server thread/INFO]: Player literal{Hunja10} chose Origin: touhouorigins:satori, for layer: origins:origin
+[02:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7909ms or 158 ticks behind
+[02:15:01] [Server thread/INFO]: Player literal{Hunja10} chose Origin: origins-classes:explorer, for layer: origins-classes:class
+[02:15:02] [Server thread/INFO]: Player literal{Hunja10} chose Origin: touhoublessings:regular, for layer: touhoublessings:blessing
+[02:15:04] [Server thread/INFO]: Kratzzi has made the advancement [Refined Iron]
+[02:15:08] [Server thread/INFO]: Hunja10 has made the advancement [A Howling Discovery]
+[02:15:13] [Server thread/INFO]: <DokiDokiWakuWaku> same way you used stuff on celestial
+[02:15:15] [Server thread/INFO]: <DokiDokiWakuWaku> to evolve
+[02:15:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6828ms or 136 ticks behind
+[02:15:19] [Server thread/INFO]: <DokiDokiWakuWaku> you need to bind it
+[02:15:21] [Server thread/INFO]: <DokiDokiWakuWaku> i think
+[02:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6832ms or 136 ticks behind
+[02:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8328ms or 166 ticks behind
+[02:16:20] [Server thread/INFO]: Hunja10 has made the advancement [Time for a Sweat]
+[02:16:20] [Server thread/INFO]: Hunja10 has made the advancement [Incendium]
+[02:16:20] [Server thread/INFO]: Hunja10 has made the advancement [We Need to Go Deeper]
+[02:16:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6888ms or 137 ticks behind
+[02:16:35] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [Time for a Sweat]
+[02:16:35] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [Incendium]
+[02:16:35] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [We Need to Go Deeper]
+[02:16:35] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [A Terrible Fortress]
+[02:16:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6113ms or 122 ticks behind
+[02:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5105ms or 102 ticks behind
+[02:17:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
+[02:17:35] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [Stare Into Despair]
+[02:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
+[02:17:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3539ms or 70 ticks behind
+[02:18:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4913ms or 98 ticks behind
+[02:18:37] [Server thread/INFO]: bighotmaddog has made the advancement [Stare Into Despair]
+[02:18:37] [Server thread/INFO]: bighotmaddog has made the advancement [The Beginning of An Adventure]
+[02:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4404ms or 88 ticks behind
+[02:18:40] [Server thread/INFO]: Hunja10 has made the advancement [Diamonds!]
+[02:18:40] [Server thread/INFO]: Hunja10 has made the advancement [Archer´s Paths]
+[02:18:40] [Server thread/INFO]: Hunja10 has made the advancement [Stare Into Despair]
+[02:18:40] [Server thread/INFO]: Hunja10 has made the advancement [The Beginning of An Adventure]
+[02:18:41] [Server thread/INFO]: Hunja10 has made the advancement [Isn't It Iron Pick]
+[02:18:41] [Server thread/INFO]: Hunja10 has made the advancement [Amateur Archaeologist]
+[02:18:41] [Server thread/INFO]: Hunja10 has made the advancement [Stone Age]
+[02:18:41] [Server thread/INFO]: Hunja10 has made the advancement [Acquire Hardware]
+[02:18:41] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [Strange Biomes]
+[02:18:41] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [Darude - Firestorm]
+[02:18:53] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[02:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3818ms or 76 ticks behind
+[02:19:09] [Server thread/INFO]: Hunja10 lost connection: Disconnected
+[02:19:09] [Server thread/INFO]: Hunja10 left the game
+[02:19:09] [Server thread/INFO]: Updating all forceload tickets for 1b6d83e9-c0cf-4b52-bb22-8d6c00545e1e
+[02:19:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
+[02:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:19:43] [Server thread/INFO]: bighotmaddog has made the advancement [Strange Biomes]
+[02:19:43] [Server thread/INFO]: bighotmaddog has made the advancement [Darude - Firestorm]
+[02:19:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2472ms or 49 ticks behind
+[02:20:01] [Server thread/INFO]: bighotmaddog has made the advancement [Take Aim]
+[02:20:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02:20:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
+[02:21:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[02:22:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:22:35] [Server thread/INFO]: <DokiDokiWakuWaku> oh god im a moron
+[02:22:43] [Server thread/INFO]: <DokiDokiWakuWaku> i forgot to put away my diamonds before coming here
+[02:22:48] [Server thread/INFO]: <DokiDokiWakuWaku> because hunja was rushing me to do something
+[02:22:50] [Server thread/INFO]: bighotmaddog has made the advancement [Into Fire]
+[02:22:52] [Server thread/INFO]: <DokiDokiWakuWaku> i gotta go back
+[02:22:58] [Server thread/INFO]: <DokiDokiWakuWaku> not yet
+[02:22:59] [User Authenticator #58/INFO]: UUID of player Hunja10 is 1b6d83e9-c0cf-4b52-bb22-8d6c00545e1e
+[02:22:59] [Server thread/INFO]: [Handshake] Sending channel query
+[02:22:59] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[02:22:59] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[02:22:59] [Server thread/INFO]: Hunja10[/46.223.77.200:59904] logged in with entity id 617416 at (539.7571614928328, 63.0, 615.3164392685469)
+[02:22:59] [Server thread/INFO]: Syncing config to Hunja10 (1b6d83e9-c0cf-4b52-bb22-8d6c00545e1e)
+[02:22:59] [Server thread/INFO]: Loading config from file...
+[02:22:59] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:22:59] [Server thread/INFO]: Hunja10 joined the game
+[02:22:59] [Server thread/INFO]: Hunja10 has made the advancement [Plushies!]
+[02:22:59] [Server thread/INFO]: Updating all forceload tickets for 1b6d83e9-c0cf-4b52-bb22-8d6c00545e1e
+[02:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[02:23:01] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:23:01] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:23:01] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:23:01] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:23:01] [Server thread/INFO]: [bclib] 	- Offering Folder /home/rsa-key-20250402/yuyucraftServerFiles/bclib-sync (allowDelete=true)
+[02:23:17] [Server thread/INFO]: Hunja10 has made the advancement [To beer or not to beer]
+[02:23:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4767ms or 95 ticks behind
+[02:23:27] [Server thread/INFO]: bighotmaddog has reached the goal [Postmortal]
+[02:23:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:24:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[02:24:11] [Server thread/INFO]: <DokiDokiWakuWaku> i have 2 powder
+[02:24:12] [Server thread/INFO]: <DokiDokiWakuWaku> dw
+[02:24:17] [Server thread/INFO]: <DokiDokiWakuWaku> and warts
+[02:24:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[02:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[02:24:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2907ms or 58 ticks behind
+[02:25:01] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/618788, l='ServerLevel[world]', x=844.00, y=31.00, z=661.00] as it would cause deadlock
+[02:25:01] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/618793, l='ServerLevel[world]', x=844.00, y=31.00, z=661.00] as it would cause deadlock
+[02:25:01] [Server thread/INFO]: Hunja10 has made the advancement [Cute!]
+[02:25:10] [Server thread/INFO]: DokiDokiWakuWaku has reached the goal [Pocket Edition Alpha]
+[02:25:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4882ms or 97 ticks behind
+[02:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3476ms or 69 ticks behind
+[02:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
+[02:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5729ms or 114 ticks behind
+[02:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6658ms or 133 ticks behind
+[02:26:44] [Server thread/INFO]: Hunja10 has made the advancement ['X' Marks the Spot]
+[02:26:47] [Server thread/INFO]: <DokiDokiWakuWaku> im in some structure with a immortal ghast
+[02:26:49] [Server thread/INFO]: <DokiDokiWakuWaku> what the fuck
+[02:26:56] [Server thread/INFO]: Hunja10 has made the advancement [Penteconter]
+[02:26:56] [Server thread/INFO]: Hunja10 has made the advancement [Close Quarters]
+[02:26:56] [Server thread/INFO]: Hunja10 has made the advancement [Disme A Dozen]
+[02:26:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5216ms or 104 ticks behind
+[02:27:01] [Server thread/INFO]: <DokiDokiWakuWaku> THE GHAST HAS UNLIMITED TOTEMS OF UNDYING
+[02:27:07] [Server thread/INFO]: Hunja10 has made the advancement [Strange Biomes]
+[02:27:07] [Server thread/INFO]: Hunja10 has made the advancement [Darude - Firestorm]
+[02:27:17] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [Radioactive]
+[02:27:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4969ms or 99 ticks behind
+[02:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5193ms or 103 ticks behind
+[02:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4602ms or 92 ticks behind
+[02:28:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4547ms or 90 ticks behind
+[02:28:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4685ms or 93 ticks behind
+[02:28:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6211ms or 124 ticks behind
+[02:29:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5497ms or 109 ticks behind
+[02:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4226ms or 84 ticks behind
+[02:29:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3744ms or 74 ticks behind
+[02:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
+[02:30:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4845ms or 96 ticks behind
+[02:30:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5926ms or 118 ticks behind
+[02:31:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4583ms or 91 ticks behind
+[02:31:27] [Server thread/INFO]: <DokiDokiWakuWaku> yes
+[02:31:29] [Server thread/INFO]: <DokiDokiWakuWaku> but if you hit them
+[02:31:32] [Server thread/INFO]: <DokiDokiWakuWaku> they fight back
+[02:31:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3159ms or 63 ticks behind
+[02:31:51] [Server thread/INFO]: <DokiDokiWakuWaku> mad dog
+[02:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4060ms or 81 ticks behind
+[02:31:56] [Server thread/INFO]: <DokiDokiWakuWaku> i got something that might be of interest
+[02:32:07] [Server thread/INFO]: <DokiDokiWakuWaku> youll see when we go back to base
+[02:32:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4234ms or 84 ticks behind
+[02:32:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4286ms or 85 ticks behind
+[02:32:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4527ms or 90 ticks behind
+[02:32:52] [Server thread/INFO]: <DokiDokiWakuWaku> like
+[02:32:55] [Server thread/INFO]: <DokiDokiWakuWaku> elden
+[02:32:56] [Server thread/INFO]: <DokiDokiWakuWaku> ring
+[02:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4918ms or 98 ticks behind
+[02:33:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4427ms or 88 ticks behind
+[02:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4253ms or 85 ticks behind
+[02:33:50] [Server thread/INFO]: <DokiDokiWakuWaku> i killed 3 of them
+[02:33:52] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:33:52] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:33:52] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:33:52] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:33:52] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:33:52] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:33:52] [Server thread/INFO]: <DokiDokiWakuWaku> got nothing
+[02:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7250ms or 145 ticks behind
+[02:34:16] [Server thread/INFO]: <DokiDokiWakuWaku> ok so
+[02:34:18] [Server thread/INFO]: <DokiDokiWakuWaku> look at this
+[02:34:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3684ms or 73 ticks behind
+[02:34:36] [Server thread/INFO]: <DokiDokiWakuWaku> shield especially
+[02:34:44] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [Into Fire]
+[02:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3281ms or 65 ticks behind
+[02:35:00] [Server thread/INFO]: <DokiDokiWakuWaku> got it from the arena with an immortal ghast
+[02:35:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3384ms or 67 ticks behind
+[02:35:07] [Server thread/INFO]: <DokiDokiWakuWaku> like, if i killed the ghast it auto used a totem
+[02:35:12] [Server thread/INFO]: <DokiDokiWakuWaku> wait
+[02:35:14] [Server thread/INFO]: <DokiDokiWakuWaku> look at this thing
+[02:35:16] [Server thread/INFO]: <DokiDokiWakuWaku> you didnt pick up
+[02:35:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
+[02:35:24] [Server thread/INFO]: <DokiDokiWakuWaku> hit me
+[02:35:34] [Server thread/INFO]: <DokiDokiWakuWaku> mad dog
+[02:35:36] [Server thread/INFO]: <DokiDokiWakuWaku> hit me when i block
+[02:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
+[02:35:47] [Server thread/INFO]: <DokiDokiWakuWaku> SEE?
+[02:35:52] [Server thread/INFO]: <DokiDokiWakuWaku> ITS AWESOME
+[02:35:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
+[02:35:58] [Server thread/INFO]: <DokiDokiWakuWaku> radiation shield
+[02:36:05] [Server thread/INFO]: <DokiDokiWakuWaku> i got it from the same arena
+[02:36:11] [Server thread/INFO]: <DokiDokiWakuWaku> idk wtf it is
+[02:36:16] [Server thread/INFO]: <DokiDokiWakuWaku> theres a chained ghast in the middle
+[02:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
+[02:36:18] [Server thread/INFO]: <DokiDokiWakuWaku> that you cant kill
+[02:36:23] [Server thread/INFO]: <DokiDokiWakuWaku> as it has infinite toems of undying
+[02:36:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:36:54] [Server thread/INFO]: <DokiDokiWakuWaku> oh also
+[02:36:57] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [Archer´s Paths]
+[02:36:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02:37:16] [Server thread/INFO]: <DokiDokiWakuWaku> i already have shoe item
+[02:37:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[02:37:18] [Server thread/INFO]: <DokiDokiWakuWaku> so no need
+[02:37:22] [Server thread/INFO]: <DokiDokiWakuWaku> yup
+[02:37:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
+[02:37:50] [Server thread/INFO]: <DokiDokiWakuWaku> once again, it was in an arena with floating chests on chains that you have to open while avoiding an immortal ghast shooting at you
+[02:37:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2487ms or 49 ticks behind
+[02:37:51] [Server thread/INFO]: <DokiDokiWakuWaku> it was
+[02:37:55] [Server thread/INFO]: <DokiDokiWakuWaku> something
+[02:38:08] [Server thread/INFO]: Neisbor has made the advancement [Wild Harvest]
+[02:38:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3957ms or 79 ticks behind
+[02:38:11] [Server thread/INFO]: <DokiDokiWakuWaku> i also have a shield that gives +2 hp
+[02:38:23] [Server thread/INFO]: DokiDokiWakuWaku has made the advancement [Oh Shiny]
+[02:38:26] [Server thread/INFO]: <DokiDokiWakuWaku> i already answered
+[02:38:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4270ms or 85 ticks behind
+[02:38:34] [Server thread/INFO]: <DokiDokiWakuWaku> tho the diamond chest was in a fortress chest
+[02:38:44] [Server thread/INFO]: <DokiDokiWakuWaku> IMMORTAL GHAST WITH INFINITE TOTEMS OF UNDYING
+[02:38:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5648ms or 112 ticks behind
+[02:39:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7343ms or 146 ticks behind
+[02:39:17] [Server thread/INFO]: <DokiDokiWakuWaku> i stole someones instrument
+[02:39:30] [Server thread/INFO]: <bighotmaddog> 7 pearls
+[02:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4191ms or 83 ticks behind
+[02:39:33] [Server thread/INFO]: <bighotmaddog> dream rng
+[02:39:35] [Server thread/INFO]: <DokiDokiWakuWaku> i threw 18 ingots at him btw
+[02:39:36] [Server thread/INFO]: <DokiDokiWakuWaku> lol
+[02:39:42] [Server thread/INFO]: <DokiDokiWakuWaku> oh yeah hunja, if ur reading this
+[02:39:44] [Server thread/INFO]: <DokiDokiWakuWaku> you can skip dungeons
+[02:39:46] [Server thread/INFO]: <DokiDokiWakuWaku> with koosh
+[02:39:48] [Server thread/INFO]: <DokiDokiWakuWaku> lol
+[02:39:48] [Server thread/INFO]: Hunja10 has made the advancement [A... Fake?]
+[02:39:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4828ms or 96 ticks behind
+[02:40:00] [Server thread/INFO]: <DokiDokiWakuWaku> thats what i did last time
+[02:40:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4569ms or 91 ticks behind
+[02:40:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4097ms or 81 ticks behind
+[02:40:45] [Server thread/INFO]: Hunja10 has made the advancement [An Automatic Forge Mod]
+[02:40:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4517ms or 90 ticks behind
+[02:40:57] [Server thread/INFO]: <DokiDokiWakuWaku> +2hp shield
+[02:41:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4028ms or 80 ticks behind
+[02:41:20] [Server thread/INFO]: DokiDokiWakuWaku was blown up by Hydrogen Jellyfish
+[02:41:20] [Server thread/INFO]: Created new backpack backup file for DokiDokiWakuWaku with unique ID travelersbackpack.snow_11.04.2025-02.41.20.dat
+[02:41:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5422ms or 108 ticks behind
+[02:41:32] [Server thread/INFO]: <DokiDokiWakuWaku> LMAO
+[02:41:37] [Server thread/INFO]: <DokiDokiWakuWaku> IT DID INDEED
+[02:41:39] [Server thread/INFO]: <DokiDokiWakuWaku> EXPLODE
+[02:41:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6992ms or 139 ticks behind
+[02:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
+[02:42:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[02:42:43] [Server thread/INFO]: <DokiDokiWakuWaku> btw fairys ability out-regens fire damage
+[02:42:46] [Server thread/INFO]: <DokiDokiWakuWaku> home
+[02:42:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5821ms or 116 ticks behind
+[02:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6906ms or 138 ticks behind
+[02:43:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6390ms or 127 ticks behind
+[02:43:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6606ms or 132 ticks behind
+[02:44:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7128ms or 142 ticks behind
+[02:44:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6678ms or 133 ticks behind
+[02:44:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6894ms or 137 ticks behind
+[02:45:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7434ms or 148 ticks behind
+[02:45:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6359ms or 127 ticks behind
+[02:46:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6943ms or 138 ticks behind
+[02:46:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6869ms or 137 ticks behind
+[02:46:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6346ms or 126 ticks behind
+[02:46:51] [Server thread/INFO]: <Kratzzi> alright gtg
+[02:46:56] [Server thread/INFO]: Kratzzi lost connection: Disconnected
+[02:46:56] [Server thread/INFO]: Kratzzi left the game
+[02:46:56] [Server thread/INFO]: Updating all forceload tickets for 0ad41b89-440e-420f-a187-bc1d8855beb4
+[02:47:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3681ms or 73 ticks behind
+[02:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[02:47:49] [Server thread/INFO]: <DokiDokiWakuWaku> yes
+[02:47:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:48:03] [Server thread/INFO]: Hunja10 has made the advancement [Barrel Booty]
+[02:48:57] [Server thread/INFO]: <DokiDokiWakuWaku> i uploaded the zun tomboyish girl midi and its off on the instrument
+[02:48:59] [Server thread/INFO]: <DokiDokiWakuWaku> bleh
+[02:49:05] [Server thread/INFO]: <DokiDokiWakuWaku> this is peak tho
+[02:49:30] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[02:50:07] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[02:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[02:50:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:50:54] [Server thread/INFO]: <DokiDokiWakuWaku> its 5am i should sleep i think
+[02:51:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[02:51:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2930ms or 58 ticks behind
+[02:51:27] [Server thread/INFO]: <DokiDokiWakuWaku> i was there
+[02:51:30] [Server thread/INFO]: <DokiDokiWakuWaku> the loot is ass
+[02:51:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
+[02:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[02:52:03] [Server thread/INFO]: <DokiDokiWakuWaku> yea
+[02:52:07] [Server thread/INFO]: <DokiDokiWakuWaku> just 30 skeletons
+[02:52:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
+[02:52:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3053ms or 61 ticks behind
+[02:52:42] [Server thread/INFO]: Hunja10 has completed the challenge [Centennial]
+[02:52:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[02:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[02:53:27] [Server thread/INFO]: <DokiDokiWakuWaku> HE FOUND THE IMMORTAL GHAST
+[02:53:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:53:37] [Server thread/INFO]: <DokiDokiWakuWaku> same one
+[02:53:40] [Server thread/INFO]: <DokiDokiWakuWaku> he cant die
+[02:53:42] [Server thread/INFO]: <DokiDokiWakuWaku> dont try it
+[02:53:44] [Server thread/INFO]: Hunja10 has reached the goal [Pocket Edition Alpha]
+[02:53:49] [Server thread/INFO]: <DokiDokiWakuWaku> ghast has infinite totems of undying
+[02:53:50] [Server thread/INFO]: Hunja10 has made the advancement [Ice Bucket Challenge]
+[02:54:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[02:54:10] [Server thread/INFO]: <DokiDokiWakuWaku> your icon sometimes
+[02:54:13] [Server thread/INFO]: <DokiDokiWakuWaku> when ur behind walls
+[02:54:33] [Server thread/INFO]: <DokiDokiWakuWaku> look at my stream
+[02:54:38] [Server thread/INFO]: <DokiDokiWakuWaku> i can prove ghast is immortal
+[02:54:41] [Server thread/INFO]: <DokiDokiWakuWaku> so you dont get harmed
+[02:54:45] [Server thread/INFO]: <DokiDokiWakuWaku> LOOK NOW
+[02:54:55] [Server thread/INFO]: Named entity class_1571['Ghast Sentry'/632182, l='ServerLevel[world]', x=678.00, y=46.03, z=582.41] died: Ghast Sentry was slain by DokiDokiWakuWaku
+[02:54:59] [Server thread/INFO]: <DokiDokiWakuWaku> I KILLED IT
+[02:55:03] [Server thread/INFO]: <DokiDokiWakuWaku> I BYPASSED THE TOTEM
+[02:55:21] [Server thread/INFO]: <DokiDokiWakuWaku> HE WASNT [TITLE CARD] AFTER ALL
+[02:55:26] [Server thread/INFO]: bighotmaddog has reached the goal [Pocket Edition Alpha]
+[02:55:33] [Server thread/INFO]: <DokiDokiWakuWaku> can you tell hunja to actually read chat
+[02:55:38] [Server thread/INFO]: <DokiDokiWakuWaku> this was where the ghast was
+[02:55:39] [Server thread/INFO]: <DokiDokiWakuWaku> yes
+[02:55:41] [Server thread/INFO]: <DokiDokiWakuWaku> i killed it
+[02:55:47] [Server thread/INFO]: <DokiDokiWakuWaku> dont jump into lava tho
+[02:56:02] [Server thread/INFO]: <DokiDokiWakuWaku> if you get armor dupes take them
+[02:56:04] [Server thread/INFO]: <DokiDokiWakuWaku> i want one
+[02:56:22] [Server thread/INFO]: bighotmaddog has made the advancement [Radioactive]
+[02:56:25] [Server thread/INFO]: <DokiDokiWakuWaku> hazmat shield is op as fuck
+[02:56:27] [Server thread/INFO]: Hunja10 has made the advancement [Radioactive]
+[02:56:33] [Server thread/INFO]: <DokiDokiWakuWaku> RADIOACTIVE
+[02:56:47] [Server thread/INFO]: <DokiDokiWakuWaku> PHANTOMS TARGET KOISHIS
+[02:56:56] [Server thread/INFO]: <DokiDokiWakuWaku> BECAUSE THEY SPAWN AGREsSIvE
+[02:57:06] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/642580, l='ServerLevel[world]', x=672.93, y=32.92, z=578.94] died: Toxic Slime was slain by bighotmaddog
+[02:57:13] [Server thread/INFO]: <DokiDokiWakuWaku> HUNJA READ CHAT THIS IS IMPORTANT
+[02:57:29] [Server thread/INFO]: <DokiDokiWakuWaku> IM SURE
+[02:57:34] [Server thread/INFO]: <DokiDokiWakuWaku> I PLAYED KOISHI LAST SERVER
+[02:57:45] [Server thread/INFO]: Hunja10 has made the advancement [Hot Stuff]
+[02:58:06] [Server thread/INFO]: Hunja10 has made the advancement [Monster Hunter]
+[02:58:07] [Server thread/INFO]: <DokiDokiWakuWaku> you said you needed blocks
+[02:58:25] [Server thread/INFO]: <DokiDokiWakuWaku> hunja give me ur toxic armor if you find dupes
+[02:58:28] [Server thread/INFO]: <DokiDokiWakuWaku> i gave mine to mad ddog
+[02:59:26] [Server thread/INFO]: <DokiDokiWakuWaku> because this is supposed to be hard
+[02:59:33] [Server thread/INFO]: <DokiDokiWakuWaku> theres a ghast with like 50 totems of undying
+[02:59:37] [Server thread/INFO]: <DokiDokiWakuWaku> usually there
+[03:00:54] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/643288, l='ServerLevel[world]', x=658.93, y=-20.00, z=482.19] died: Toxic Slime was killed
+[03:02:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[03:02:40] [Server thread/INFO]: <DokiDokiWakuWaku> lost portal again
+[03:02:43] [Server thread/INFO]: Neisbor has made the advancement [Acquire Hardware]
+[03:03:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:03:37] [Server thread/INFO]: <DokiDokiWakuWaku> guys wheres the portal
+[03:03:42] [Server thread/INFO]: <DokiDokiWakuWaku> i wanna sleep
+[03:03:45] [Server thread/INFO]: bighotmaddog has made the advancement [Not Today, Thank You]
+[03:03:46] [Server thread/INFO]: <DokiDokiWakuWaku> irl
+[03:03:47] [Server thread/INFO]: bighotmaddog has made the advancement [Light-Sensitive]
+[03:03:47] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/644796, l='ServerLevel[world]', x=574.46, y=106.00, z=568.87] died: Desert Blaze was slain by bighotmaddog
+[03:04:17] [Server thread/INFO]: <DokiDokiWakuWaku> found it
+[03:04:19] [Server thread/INFO]: <DokiDokiWakuWaku> thx
+[03:04:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03:05:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[03:05:46] [Server thread/INFO]: <DokiDokiWakuWaku> cya guys
+[03:05:53] [Server thread/INFO]: DokiDokiWakuWaku lost connection: Disconnected
+[03:05:53] [Server thread/INFO]: DokiDokiWakuWaku left the game
+[03:05:53] [Server thread/INFO]: Updating all forceload tickets for eaf756f6-af66-45e3-aa6e-4282ac4ccdf0
+[03:05:54] [Server thread/INFO]: <Neisbor> bye
+[03:07:13] [Server thread/INFO]: Hunja10 has made the advancement [Light-Sensitive]
+[03:07:13] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/649099, l='ServerLevel[world]', x=693.86, y=71.02, z=535.87] died: Desert Blaze was slain by Hunja10
+[03:07:35] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/649066, l='ServerLevel[world]', x=671.23, y=66.34, z=554.70] died: Desert Blaze was slain by Hunja10
+[03:07:53] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/649656, l='ServerLevel[world]', x=710.87, y=67.00, z=541.80] died: Desert Blaze was slain by Hunja10
+[03:08:08] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/649500, l='ServerLevel[world]', x=708.69, y=62.18, z=528.19] died: Desert Blaze was shot by bighotmaddog
+[03:08:22] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/650195, l='ServerLevel[world]', x=694.81, y=67.35, z=526.01] died: Desert Blaze was slain by bighotmaddog
+[03:08:40] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/649921, l='ServerLevel[world]', x=680.66, y=53.00, z=511.65] died: Desert Blaze was slain by bighotmaddog
+[03:08:47] [Server thread/INFO]: bighotmaddog has completed the challenge [Border of Life]
+[03:08:47] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/649919, l='ServerLevel[world]', x=683.30, y=54.04, z=499.30] died: Desert Blaze was slain by bighotmaddog
+[03:08:58] [Server thread/INFO]: Neisbor has made the advancement [Isn't It Iron Pick]
+[03:09:28] [Server thread/INFO]: bighotmaddog burned to death
+[03:09:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[03:10:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3691ms or 73 ticks behind
+[03:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
+[03:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03:13:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[03:16:36] [Server thread/INFO]: Hunja10 lost connection: Disconnected
+[03:16:36] [Server thread/INFO]: Hunja10 left the game
+[03:16:36] [Server thread/INFO]: Updating all forceload tickets for 1b6d83e9-c0cf-4b52-bb22-8d6c00545e1e
+[03:16:43] [User Authenticator #59/INFO]: UUID of player Hunja10 is 1b6d83e9-c0cf-4b52-bb22-8d6c00545e1e
+[03:16:43] [Server thread/INFO]: [Handshake] Sending channel query
+[03:16:44] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[03:16:44] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[03:16:44] [Server thread/INFO]: Hunja10[/46.223.77.200:63651] logged in with entity id 657393 at (4416.662228340249, 59.0, 5928.81993627247)
+[03:16:44] [Server thread/INFO]: Syncing config to Hunja10 (1b6d83e9-c0cf-4b52-bb22-8d6c00545e1e)
+[03:16:44] [Server thread/INFO]: Loading config from file...
+[03:16:44] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:16:44] [Server thread/INFO]: Hunja10 joined the game
+[03:16:44] [Server thread/INFO]: Updating all forceload tickets for 1b6d83e9-c0cf-4b52-bb22-8d6c00545e1e
+[03:16:44] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:16:44] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:16:44] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:16:44] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:16:44] [Server thread/INFO]: [bclib] 	- Offering Folder /home/rsa-key-20250402/yuyucraftServerFiles/bclib-sync (allowDelete=true)
+[03:17:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[03:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[03:18:33] [Server thread/INFO]: Hunja10 burned to death
+[03:19:07] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.class_148: Ticking entity
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:901) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.class_4558.method_22510(class_4558.java:60) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2066.method_24362(class_2066.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2066.method_8950(class_2066.java:51) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222$2.method_7635(class_3222.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1703.method_34246(class_1703.java:219) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1703.method_7623(class_1703.java:176) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5773(class_3222.java:472) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
+	... 5 more
+[03:19:07] [Server thread/ERROR]: This crash report has been saved to: /home/rsa-key-20250402/yuyucraftServerFiles/./crash-reports/crash-2025-04-11_03.19.07-server.txt
+[03:19:07] [Server thread/INFO]: Server stopped, resetting cost handler and shared task runner
+[03:19:07] [Server thread/INFO]: Stopping server
+[03:19:07] [Server thread/INFO]: Saving players
+[03:19:07] [Server thread/INFO]: bighotmaddog lost connection: Server closed
+[03:19:07] [Server thread/INFO]: bighotmaddog left the game
+[03:19:07] [Server thread/INFO]: Updating all forceload tickets for 154c7459-7d96-4c8e-95f4-85211e9d9749
+[03:19:07] [Server thread/INFO]: Saving worlds
+[03:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[03:19:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[03:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:19:09] [Server thread/INFO]: Unloading EnderChest Data
+[03:19:09] [Server thread/INFO]: Finished Unloading EnderChest Data
+[03:19:09] [Server thread/INFO]: Stopping IO worker...
+[03:19:09] [Server thread/INFO]: Stopped IO worker!
+[03:19:09] [pool-4-thread-1/INFO]: Unloading server config for permanentsponges

@@ -1,0 +1,6 @@
+{
+    "connectedDoors": true,
+    "animateDoors": true,
+    // Type: Integer
+    "animationLength": 5
+}
